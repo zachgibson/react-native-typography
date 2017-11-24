@@ -36,7 +36,7 @@ import { Typography } from "react-native-typography";
 ## Props
 | Prop | Type | Default | Description |
 |---|---|---|---|
-| __`children`__ | _String_ | N/A | Text to display. |
+| __`children`__ | _Raw text_ | N/A | Text to display. |
 | __`iOSTextStyle`__ | _String_ | N/A | iOS Text style. |
 | __`androidTextStyle`__ | _String_ | N/A | Android Text style. |
 | __`style`__ | _Object_ | N/A | Styles for text. |
