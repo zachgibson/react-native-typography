@@ -1,0 +1,19 @@
+{
+  "name": "react-native-typography",
+  "version": "0.0.1",
+  "description": "Easy access to iOS and Android Typography styles in your React Native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zachgibson/react-native-typography.git"
+  },
+  "author": "Zachary Gibson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zachgibson/react-native-typography/issues"
+  },
+  "homepage": "https://github.com/zachgibson/react-native-typography#readme"
+}
